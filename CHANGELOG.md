@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+# [1.3.0](https://github.com/Sajandhakal12/automated-semantic-release/compare/v1.2.0...v1.3.0) (2021-06-11)
+
+
+### Features
+
+* testing feature dsfada ([0b81095](https://github.com/Sajandhakal12/automated-semantic-release/commit/0b81095ecef4e7a8c622d4950cec67c658acf59a))
+
 # [1.2.0](https://github.com/Sajandhakal12/automated-semantic-release/compare/v1.1.0...v1.2.0) (2021-06-11)
 
 
