@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+# [1.1.0](https://github.com/Sajandhakal12/automated-semantic-release/compare/v1.0.0...v1.1.0) (2021-06-11)
+
+
+### Features
+
+* testing feature ([cd90c47](https://github.com/Sajandhakal12/automated-semantic-release/commit/cd90c475b70b6ca0e25b0fe2f21ea22753a59dd1))
+
 # 1.0.0 (2021-06-11)
 
 
