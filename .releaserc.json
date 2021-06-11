@@ -11,12 +11,6 @@
         "changelogTitle": "# Semantic Versioning Changelog"
       }
     ],
-    [
-      "@semantic-release/npm",
-      {
-        "npmPublish": false
-      }
-    ],
     "@semantic-release/exec",
 
     [
