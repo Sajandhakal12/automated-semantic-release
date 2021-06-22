@@ -1,6 +1,6 @@
 on:
   push:
-    branches: ["master", { name: "beta", channel: "beta", prerelease: "beta" }]
+    branches: ["master", "beta"]
 
 jobs:
   Test:
